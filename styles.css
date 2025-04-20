@@ -360,3 +360,28 @@ footer {
   color: white;
   cursor: pointer;
 }
+
+
+.invitation {
+  padding: 50px 20px;
+  color: #d4af37;
+  text-align: center;
+}
+
+.invitation h2 {
+  font-size: 2.2em;
+}
+.invitation p {
+  font-size: 1.2em;
+  color: #ccc;
+  max-width: 700px;
+  margin: auto;
+}
+.invitation img{
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
